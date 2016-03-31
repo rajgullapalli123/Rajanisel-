@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15328" started-at="2016-03-31T06:16:07Z" finished-at="2016-03-31T06:16:22Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15328" started-at="2016-03-31T06:16:07Z" finished-at="2016-03-31T06:16:22Z">
+      <class name="webTableex.webDynamicTable">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:webTableex.webDynamicTable@68428693]" name="setUp" is-config="true" duration-ms="10541" started-at="2016-03-31T11:46:07Z" finished-at="2016-03-31T11:46:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="webTableTest()[pri:0, instance:webTableex.webDynamicTable@68428693]" name="webTableTest" duration-ms="4768" started-at="2016-03-31T11:46:17Z" finished-at="2016-03-31T11:46:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webTableTest -->
+      </class> <!-- webTableex.webDynamicTable -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
